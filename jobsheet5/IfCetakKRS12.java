@@ -12,5 +12,9 @@ public class IfCetakKRS12 {
                 System.out.println("Silahkan cetak KRS dan minta tanda tangan DPA");
             }
         }
+        else {
+            System.out.println("Registrasi ditolak");
+
+        }   sc.close();
     }
 }
