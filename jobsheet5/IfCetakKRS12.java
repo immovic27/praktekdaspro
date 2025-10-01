@@ -16,5 +16,9 @@ public class IfCetakKRS12 {
             System.out.println("Registrasi ditolak");
 
         }   sc.close();
+        String output;
+        output = (uktLunas) ? "Pembayaran UKT terverifikasi\nSilahkan cetak KRS dan minta tanda tangan DPA" : "Registrasi ditolak";
+        System.out.println(output);
+    
     }
 }
