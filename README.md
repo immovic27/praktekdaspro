@@ -1,2 +1,1 @@
-Hello GitHub, ini adalah repository pertama saya.
-Repository ini dibuat untuk menyimpan semua tugas kuliah saya, khususnya mata kuliah Praktek Dasar Pemrograman. 
+Hello mate! this is my first repo for a college project. 
